@@ -39,4 +39,4 @@
   </div> <div class="clear btop" style="margin:0"> <a href="#header" class="backtotop home">top</a></div>
   
 </div>
-<?php //get_footer(); ?>
+<?php get_footer(); ?>
