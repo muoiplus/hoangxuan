@@ -82,7 +82,7 @@ button.button:hover, a.button:hover,input.button:hover,.right_sidebar .wpcf7 .wp
 input[type="submit"] {cursor:pointer}
 .inner {width: 997px; margin:0 auto}
 #footer .inner, #header .inner {width:971px; padding: 0 11px;}
-#header {}
+#header {height: 250px;}
 #header > .inner { }
 #header .logo {float:left;margin: 18px 0 19px 0;}
 #header .top_menu {float:right; height:38px; overflow:hidden}
@@ -156,11 +156,11 @@ input[type="submit"] {cursor:pointer}
 .home_slider .flexslider .slides > li{height: 403px; overflow:hidden;}
 .content_slider .flexslider .slides > li {height: 388px; overflow: hidden;}
 .home_slider .flexslider .slides img {min-height: 403px;}
-.home_slider .metaslider .caption-wrap {bottom:6px;  width:500px; margin: 0; left:auto; right:27%;}
-.home_slider .metaslider .caption,.news_detail .caption-wrap  {text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.6);}
-.home_slider .metaslider .caption h1{  font:32px/36px  dinbold, sans-serif;margin: 0 0 4px 0;}
+.home_slider .metaslider .caption-wrap {bottom:0;  width:330px; margin: 0; left:auto; right: 40px;padding: 15px;height: 138px;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;background: rgba(237,28,36,0.8);}
+.home_slider .metaslider .caption,.news_detail .caption-wrap  {padding: 0;}
+.home_slider .metaslider .caption h1{  font: bold 20px/26px  arial, sans-serif;color: #fff;margin: 0;text-transform: uppercase;padding-bottom: 8px;border-bottom: 2px solid #f7931e;}
 .home_slider .metaslider .caption a{margin: 0 2px;background:url(images/readmore.png) no-repeat left bottom; font-family:dinbold, sans-serif; padding-left:21px; font-weight: normal}
-.home_slider .metaslider .caption p{font-size: 11px; color: #b7b7b7; font-family: dinmedium, sans-serif}
+.home_slider .metaslider .caption p{font: normal 14px Arial;line-height: 26px;color: #fff;padding: 5px 0 0;margin: 0;}
 .flexslider .flex-direction-nav .flex-prev{top: 92%; background: url("images/arrow-slider.png") no-repeat ;width: 32px;height: 33px;right: 60px;}
 .flexslider .flex-direction-nav .flex-prev:hover{background: url("images/arrow-slider-hover.png") no-repeat ;width: 32px;height: 33px;}
 .flexslider .flex-direction-nav .flex-next:hover{background: url("images/arrow-slider-hover.png") no-repeat top right;width: 33px;}
