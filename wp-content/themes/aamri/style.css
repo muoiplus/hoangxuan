@@ -118,7 +118,7 @@ input[type="submit"] {cursor:pointer}
 .main_menu li ul li a {padding: 0; line-height: 11px; display: block;color: #ff4500;text-transform: none;}
 .main_menu li ul li ul {left:100%; top:0; background: #960001;box-shadow:  none; -moz-box-shadow:none; -webkit-box-shadow: none}
 .main_menu li ul li ul li {border-color: #880000}
-.main_menu .main-menu > li.current-menu-parent > a{background: url("images/menu-arrow-down-red.png") no-repeat right center; color: #cc1f2d; font-family: dinbold; } 
+.main_menu .main-menu > li.current-menu-parent > a{background: #ef3218;}
 .main-menu > li.current_page_item > a{color:#cc1f2d;}
 
 .main_menu li:first-child ul{left: 0;transform: translate(0,0);-moz-transform: translate(0,0);-webkit-transform: translate(0,0);}
