@@ -53,15 +53,26 @@ echo " - ".get_category_by_slug($fullCurrentCat[2])->name;
 	<div id="header">
     	<div class="inner">
     	<div class="logo"><div class="logo_inner"><a href="<?php bloginfo('home') ?>"><img src="<?php bloginfo('template_url')?>/images/logo.png" alt="logo" title="Aamri"/></a></div></div>
-    	<div class="top_menu">
+    	<!--<div class="top_menu">
         	<ul><li><a href="/">Home</a></li>
             	<li><a href="#content">Skip to content</a></li>
                 <li><a href="javascript:window.print()">Print</a></li>
                 <li class="text_size"><span>Text size</span><a href="javascript:increaseFontSize();">+</a><a href="javascript:decreaseFontSize();">-</a> </li>
                 </ul>
+                <div class="search_bar"><?php /*get_search_form(); */?></div>
+            	<div class="twitter_icon"><a href="http://twitter.com/AAMRI_Aus" target="_blank"><img src="<?php /*bloginfo('template_url')*/?>/images/twitter_blue.png"></a></div>
+        </div>-->
+            <div class="right-header">
+                <ul class="languages">
+                    <li class="en"><a href="#">English</a></li>
+                    <li class="vi"><a href="#">Tiếng Việt</a></li>
+                </ul>
                 <div class="search_bar"><?php get_search_form(); ?></div>
-            	<div class="twitter_icon"><a href="http://twitter.com/AAMRI_Aus" target="_blank"><img src="<?php bloginfo('template_url')?>/images/twitter_blue.png"></a></div>
-        </div>
+                <div class="contact-header">
+                    <p class="email-header">info@password.edu.vn</p>
+                    <p class="phone-header">0979.958.351</p>
+                </div>
+            </div>
         <div class="menu_icon"><a id="mobile_icon_menu" href="#2">Menu</a></div>
         <div class="clear"></div>
         </div>
