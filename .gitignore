@@ -1,0 +1,12 @@
+﻿.htaccess
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/cache/tmp
+sitemap.xml
+*.log
+wp-content/cache/
+sitemap.xml.gz
+wp-config.php
+stats
+backup
