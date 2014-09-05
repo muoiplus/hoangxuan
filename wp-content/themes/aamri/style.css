@@ -81,7 +81,7 @@ button.button, a.button, input.button {background:#cc1f2d; color:#fff;font-famil
 button.button:hover, a.button:hover,input.button:hover,.right_sidebar .wpcf7 .wpcf7-submit:hover {background-color:#89172f;}
 input[type="submit"] {cursor:pointer}
 .inner {width: 997px; margin:0 auto}
-#footer .inner, #header .inner {width:971px; padding: 0 11px;}
+#footer .inner, #header .inner {width:993px; padding: 0 11px;}
 #header {height: 250px;}
 #header > .inner { }
 #header .logo {float:left;margin: 18px 0 19px 0;}
@@ -192,7 +192,7 @@ opacity: 1 !important}
 .aarmi_news ul li > a {width: 100%;height: 156px;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;padding: 12px 32px;display: block;background: #ff7300;}
 .aarmi_news ul li .flowhidden{padding: 13px 13px 15px 15px; clear: both;margin-top: 40px;text-align: center;}
 .aarmi_news ul li:first-child {margin-left: 0;}
-.aarmi_news ul li h3{  margin-bottom:5px; font-size: 73px; text-align: center;line-height: 73px; }
+.aarmi_news ul li h3{  margin-bottom:5px; font-size: 73px; text-align: center;line-height: 40px; }
 .aarmi_news ul li p{  text-align: center; font-size: 25px; }
 .aarmi_news ul li .date{margin: 11px 0 0 0;font-size: 11px;}
 .aarmi_news ul li .date a{color:#cc1f2d;}
@@ -538,8 +538,8 @@ opacity: 0.4; pointer-events:none; cursor: default;}
 
 .footer{clear: both;padding: 15px;float: left;width: 100%;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;margin: 20px 0 30px;background: #ebebeb;}
 .footer .khach-hang{font-size: 18px;text-transform: uppercase;color: #000;padding-bottom: 10px;}
-.ls-doitac li{display: inline-block;vertical-align: top;}
-
+.ls-doitac li{display: inline-block;vertical-align: top;margin: 0 10px 0 0;}
+.ls-doitac li img{max-height: 35px;}
 
 
 
