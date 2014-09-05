@@ -160,7 +160,7 @@ input[type="submit"] {cursor:pointer}
 .home_slider .metaslider .caption,.news_detail .caption-wrap  {padding: 0;}
 .home_slider .metaslider .caption h1{  font: bold 20px/26px  arial, sans-serif;color: #fff;margin: 0;text-transform: uppercase;padding-bottom: 8px;border-bottom: 2px solid #f7931e;}
 .home_slider .metaslider .caption a{margin: 0 2px;background:url(images/readmore.png) no-repeat left bottom; font-family:Arial, sans-serif; padding-left:21px; font-weight: normal}
-.home_slider .metaslider .caption p{font: normal 14px Arial;line-height: 26px;color: #fff;padding: 5px 0 0;margin: 0;}
+.home_slider .metaslider .caption p{font: italic 14px Arial;line-height: 26px;color: #fff;padding: 5px 0 0;margin: 0;}
 .flexslider .flex-direction-nav .flex-prev{top: 92%; background: url("images/arrow-slider.png") no-repeat ;width: 32px;height: 33px;right: 60px;}
 .flexslider .flex-direction-nav .flex-prev:hover{background: url("images/arrow-slider-hover.png") no-repeat ;width: 32px;height: 33px;}
 .flexslider .flex-direction-nav .flex-next:hover{background: url("images/arrow-slider-hover.png") no-repeat top right;width: 33px;}
