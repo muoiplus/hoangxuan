@@ -536,9 +536,9 @@ opacity: 0.4; pointer-events:none; cursor: default;}
 .ls-news:last-child h2{margin-bottom: 15px;}
 .ls-news .wrap-img{margin-bottom: 5px;}
 
-
-
-
+.footer{clear: both;padding: 15px;float: left;width: 100%;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;margin: 20px 0 30px;background: #ebebeb;}
+.footer .khach-hang{font-size: 18px;text-transform: uppercase;color: #000;padding-bottom: 10px;}
+.ls-doitac li{display: inline-block;vertical-align: top;}
 
 
 

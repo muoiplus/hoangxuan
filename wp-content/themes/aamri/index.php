@@ -9,7 +9,7 @@
     <?php 
 		$ARnewsHome = new WP_Query( array( 
 			'showposts' => 4,
-			'category_name'=> 'aamri-news'
+			'event-to-chuc-lop-hoc'=> 'aamri-news'
 		) );	
 	 while($ARnewsHome->have_posts()): $ARnewsHome->the_post();?>
       <li> 
