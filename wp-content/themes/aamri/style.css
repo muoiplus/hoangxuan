@@ -188,18 +188,18 @@ opacity: 1 !important}
 .aarmi_news .title .readmore:hover{color: #cc1f2d}
 .aarmi_news .title{margin: 0 0 16px 0}
 .aarmi_news .title.bottom {margin:0; overflow: hidden}
-.aarmi_news ul li {position: relative; display: inline-block;float: left;height: 353px;width: 247px;border: 1px solid #e3e3e3; border-left:none }
-.aarmi_news ul li > a {float: left}
-.aarmi_news ul li .flowhidden{padding: 13px 13px 15px 15px; clear: both; max-height: 120px}
-.aarmi_news ul li:first-child {border-left:1px solid #e3e3e3}
+.aarmi_news ul li {position: relative; display: inline-block;float: left;height: 460px;width: 242px;border: 1px solid #fcb67c;margin: 0 0 0 6px;background: #ff4500;color: #fff;}
+.aarmi_news ul li > a {width: 100%;height: 156px;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;padding: 12px 32px;display: block;background: #ff7300;}
+.aarmi_news ul li .flowhidden{padding: 13px 13px 15px 15px; clear: both; max-height: 120px;margin-top: 40px;text-align: center;}
+.aarmi_news ul li:first-child {margin-left: 0;}
 .aarmi_news ul li h3{  margin-bottom:5px; font-size: 73px; text-align: center }
 .aarmi_news ul li p{  text-align: center; font-size: 25px; }
 .aarmi_news ul li .date{margin: 11px 0 0 0;font-size: 11px;}
 .aarmi_news ul li .date a{color:#cc1f2d;}
-.aarmi_news li .wp-post-image{width: 247px; height: 177px }
+.aarmi_news li .wp-post-image{width: 166px; height: 120px;padding: 6px;background: #fff;display: block; }
 .aarmi_news li .thumb {height:177px; overflow: hidden}
 .aarmi_news ul li .descripton p{ color: #525252;margin-top: 8px; font: 13px/19px Arial,sans-serif; max-height:55px; overflow-y:hidden}    
-.aarmi_news ul li .readmore{display: block;margin-top: 13px;font: bold 13px/13px Arial, sans-serif;color: #cc1f2d; line-height:13px; clear:both; position: absolute; bottom:14px; left:12px; }
+.aarmi_news ul li .readmore{display: inline-block;font: normal 15px Arial;text-transform: uppercase;color: #ff0;background: none;margin: 20px 0 0;}
 .aarmi_news ul li .readmore:hover{text-decoration: underline;}
 .textwidget{background: #ffffff;}
 .signup_right{background: #7e7a7b;}
