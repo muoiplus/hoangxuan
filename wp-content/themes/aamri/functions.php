@@ -3,7 +3,8 @@ add_theme_support('menus');
 add_theme_support( 'post-thumbnails' );
 add_image_size( 'member-thumb-grid', 234, 172, true );
 add_image_size( 'member-thumb-list', 155, 67, true ); 
-add_image_size( 'category-thumb-list', 247, 177, true ); 
+add_image_size( 'category-thumb-list', 247, 177, true );
+add_image_size( 'post-thumb-event', 163, 118, true );
 
 register_nav_menus(array(
 		'top' => 'Main Menu',
