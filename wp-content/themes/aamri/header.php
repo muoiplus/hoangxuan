@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml"  xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml" <?php language_attributes();?>>
 <head>
+    <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="<?php bloginfo('html_type') ?>;charset=<?php bloginfo('charset'); ?>" />
 <meta name='viewport' content='width=device-width, user-scalable=no,
     initial-scale=1, maximum-scale=1, minimum-scale=1'/>
